@@ -3,7 +3,6 @@
 This project presents a multimodal deep learning system designed to detect depression severity using **audio**, **video**, and **text** information from the **DAIC-WOZ dataset**.  
 Since mental‐health symptoms cannot be captured reliably through a single modality, this approach combines multiple behavioral cues using a **Modality Attention Gated Fusion (MAGF)** model for more accurate and robust predictions.
 
----
 
 ## 📌 Project Overview
 
@@ -26,7 +25,6 @@ The complete research pipeline is implemented in **`final.ipynb`**, covering:
 - Handles missing data via mask integration  
 - Produces the final depression probability
 
----
 
 ## 🧱 Architecture Summary
 
@@ -36,8 +34,6 @@ The complete research pipeline is implemented in **`final.ipynb`**, covering:
 | **Video** | BiLSTM | Facial expressions, movements, affect |
 | **Text** | Embedding + Sequence Encoder | Linguistic behavior & content |
 | **Fusion** | MAGF | Cross-modal weighting & final prediction |
-
----
 
 
 ## ⚠️ Dataset License Notice (IMPORTANT)
@@ -52,15 +48,18 @@ Therefore, this repository **does NOT include**:
 
 Users must request dataset access from the official source.
 
-[1] Gratch J, Artstein R, Lucas GM, Stratou G, Scherer S, Nazarian A, Wood R, Boberg J, DeVault D, Marsella S, Traum DR.
+[[1] Distress Analysis Interview Corpus (DAIC)
+Gratch J, Artstein R, Lucas GM, Stratou G, Scherer S, Nazarian A, Wood R, Boberg J, DeVault D, Marsella S, Traum DR.
 The Distress Analysis Interview Corpus of human and computer interviews.
-In LREC 2014, pp. 3123–3128.
+LREC 2014, pp. 3123–3128.
+🔗 https://scholar.google.com/scholar?q=Distress+Analysis+Interview+Corpus+LREC+2014
 
-[2] DeVault D., Artstein R., Benn G., Dey T., Fast E., Gainer A., Georgila K., Gratch J., Hartholt A., Lhommet M., Lucas G., Marsella S., Morbini F., Nazarian A., Scherer S., Stratou G., Suri A., Traum D., Wood R., Xu Y., Rizzo A., Morency L.-P.
-SimSensei Kiosk: A virtual human interviewer for healthcare decision support.
-In AAMAS 2014, Paris.
+[2] SimSensei Kiosk
+DeVault D., Artstein R., Benn G., Dey T., Fast E., Gainer A., Georgila K., Gratch J., Hartholt A., Lhommet M., Lucas G., Marsella S., Morbini F., Nazarian A., Scherer S., Stratou G., Suri A., Traum D., Wood R., Xu Y., Rizzo A., Morency L.-P.
+SimSensei kiosk: A virtual human interviewer for healthcare decision support.
+AAMAS 2014, Paris.
+🔗 https://scholar.google.com/scholar?q=SimSensei+kiosk+AAMAS+2014
 
----
 Author
 
 Jasmine Savathallapalli
