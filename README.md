@@ -50,14 +50,12 @@ Users must request dataset access from the official source.
 
 [[1] Distress Analysis Interview Corpus (DAIC)
 Gratch J, Artstein R, Lucas GM, Stratou G, Scherer S, Nazarian A, Wood R, Boberg J, DeVault D, Marsella S, Traum DR.
-The Distress Analysis Interview Corpus of human and computer interviews.
-LREC 2014, pp. 3123–3128.
+The Distress Analysis Interview Corpus of human and computer interviews. LREC 2014, pp. 3123–3128.
 🔗 https://scholar.google.com/scholar?q=Distress+Analysis+Interview+Corpus+LREC+2014
 
 [2] SimSensei Kiosk
 DeVault D., Artstein R., Benn G., Dey T., Fast E., Gainer A., Georgila K., Gratch J., Hartholt A., Lhommet M., Lucas G., Marsella S., Morbini F., Nazarian A., Scherer S., Stratou G., Suri A., Traum D., Wood R., Xu Y., Rizzo A., Morency L.-P.
-SimSensei kiosk: A virtual human interviewer for healthcare decision support.
-AAMAS 2014, Paris.
+SimSensei kiosk: A virtual human interviewer for healthcare decision support. AAMAS 2014, Paris.
 🔗 https://scholar.google.com/scholar?q=SimSensei+kiosk+AAMAS+2014
 
 Author
